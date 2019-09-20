@@ -8,22 +8,19 @@ for licensing their contents.
 Unless there is a particular reason to use a different licensing structure, please use 
 the following for new projects:
 
-1. Copyright should always be assigned to **Ergoplatform, Inc.,** regardless of the type of license. 
-(In an ideal future, we can assign copyright to a foundation.)
-
-2. All software code should be licensed under the MIT license. Canonical license text for 
+1. All software code should be licensed under the MIT license. Canonical license text for 
 the MIT license can be found in this repository’s [`LICENSE` file](../LICENSE) or at the 
 [Open Source Initiative website](https://opensource.org/licenses/MIT).
 
-3. All documentation and non-code resources (e.g. logos and imagery) should be licensed under 
-the Creative Commons Attribution 4.0 International (CC BY 4.0) license. 
-An [easy-to-read, linkable description](https://creativecommons.org/licenses/by-sa/4.0/) 
-and canonical license text in [HTML](https://creativecommons.org/licenses/by/4.0/legalcode) 
-and [plain text](https://creativecommons.org/licenses/by/4.0/legalcode.txt) can be found at 
+2. All documentation and non-code resources (e.g. logos and imagery) should be licensed under 
+the CC0 1.0 Universal Public Domain Dedication license. 
+An [easy-to-read, linkable description](https://creativecommons.org/publicdomain/zero/1.0/) 
+and canonical license text in [HTML](https://creativecommons.org/publicdomain/zero/1.0/legalcode) 
+and [plain text](https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt) can be found at 
 the Creative Commons website.
 
     If a repository is a software project with some built-in docs or resources (e.g. `ergo`), 
-    it can all be licensed under the MIT license. The CC BY license is meant for projects that 
+    it can all be licensed under the MIT license. The CC0 license is meant for projects that 
     are not overwhelmingly code, such as websites, guidance, discussion repos, and so on.
 
 
@@ -36,7 +33,7 @@ When licensing a project, be sure to:
     ```md
     ## License
     
-    Copyright (c) Ergoplatform, Inc. under the **<LICENSE NAME>**. See [LICENSE file](./LICENSE) for details.
+    **<LICENSE NAME>**. See [LICENSE file](./LICENSE) for details.
     ```
     
     Or for multiple licenses:
@@ -44,23 +41,23 @@ When licensing a project, be sure to:
     ```md
     ## License
     
-    All software code is copyright (c) Ergoplatform, Inc. under the **MIT license**.
+    All software code is under the **MIT license**.
     
-    Other written documentation and content is copyright (c) Ergoplatform, Inc. under the **Creative Commons Attribution License**.
+    Other written documentation and content is under the **Creative Commons 1.0 Universal Public Domain Dedication**.
     
     See [LICENSE file](./LICENSE) for details.
     ```
 
 2. For software that will be redistributed, the full text of the license(s) **must** be in a file named 
 `LICENSE` in the repository root. Other projects **should** do this, too, but their readmes can alternatively 
-link to a separate license document, like this: [Creative Commons Attribution](https://creativecommons.org/licenses/by/4.0/).
+link to a separate license document, like this: [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
 
 ## Contributor Licensing (DCO)
 
 We manage contributor licensing via a *Developer Certificate of Origin (DCO).* 
 All commits with new code from any contributor **must** include a DCO signoff trailer. 
-See the [contributing guide part 2](../CONTRIBUTING-2.md#a-license-and-a-signed-off-by-trailers-are-required) 
+See the [contributing guide part 2](./CONTRIBUTING.md#a-license-and-a-signed-off-by-trailers-are-required) 
 for more details. Commits with extremely trivial or changes or that do not change content (e.g. merge commits) are excepted.
 
 If you’re setting up a new repository, make sure the README includes a link to our contribution guidelines 
