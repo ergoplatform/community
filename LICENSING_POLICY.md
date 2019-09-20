@@ -57,7 +57,7 @@ link to a separate license document, like this: [CC0 1.0 Universal Public Domain
 
 We manage contributor licensing via a *Developer Certificate of Origin (DCO).* 
 All commits with new code from any contributor **must** include a DCO signoff trailer. 
-See the [contributing guide part 2](./CONTRIBUTING.md#a-license-and-a-signed-off-by-trailers-are-required) 
+See the [contributing guide part 2](../CONTRIBUTING.md#a-license-and-a-signed-off-by-trailers-are-required) 
 for more details. Commits with extremely trivial or changes or that do not change content (e.g. merge commits) are excepted.
 
 If you’re setting up a new repository, make sure the README includes a link to our contribution guidelines 
