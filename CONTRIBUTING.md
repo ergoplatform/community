@@ -25,8 +25,6 @@ and helping us improve our community.
   - [Discuss big changes as Issues first](#discuss-big-changes-as-issues-first)
   - [Pull Requests always welcome](#pull-requests-always-welcome)
   - [Conventions](#conventions)
-    - [Scala Code Contributing Guidelines](#go)
-    - [JavaScript  Code Contributing Guidelines](#javascript)
     - [Git](#git)
     - [Commit messages](#commit-messages)
       - [Subject line should not be more than 80 characters long](#subject-line-should-not-be-more-than-80-characters-long)
@@ -181,14 +179,6 @@ If there's a problem with the implementation, hopefully you received feedback on
 
 Each repository will have its own code and test conventions. 
 Please make sure to review those before jumping in. Some general conventions are listed below.
-
-#### Scala
-
-Please look at the [Scala Contribution Guidelines](./CONTRIBUTING_SCALA.md).
-
-#### JavaScript
-
-Please look at the [JS Contribution Guidelines](./CONTRIBUTING_JS.md).
 
 #### Git
 
