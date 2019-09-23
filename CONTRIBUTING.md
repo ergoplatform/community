@@ -42,9 +42,9 @@ and helping us improve our community.
 
 ## Security Issues
 
-The Ergo protocol and its implementations are still under heavy development. 
-This means that there may be problems in our protocols, or there may be mistakes 
-in our implementations. However, many people are already running nodes in their machines. 
+While the core Ergo protocol is done, its implementations are still under heavy development. 
+This means that there may be problems or mistakes in our implementations. 
+However, many people are already running nodes in their machines. 
 So we take security vulnerabilities very seriously. 
 If you discover a security issue, please bring it to our attention right away!
 
