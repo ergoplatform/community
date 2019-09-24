@@ -182,13 +182,21 @@ Please make sure to review those before jumping in. Some general conventions are
 
 #### Git
 
-We use a simple git branching model:
+Depending on a repository we use either a simple git branching model or 
+[Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow).
+
+##### Simple git branching model:
 
 - `master` must always work
 - create feature-branches to merge into `master`
 - all commits must pass testing so that git bisect is easy to run
 
 Just stay current with master (rebase).
+
+##### Gitflow
+
+We use Gitflow branching model for repositories with release cycles. For example it is
+used in `ergo` and `sigmastate-interpreter` repos.
 
 ##### Commit messages
 
