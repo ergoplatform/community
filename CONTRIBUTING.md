@@ -212,7 +212,7 @@ line.
 **If you are brand new to Ergo**, you'll need to run a script that adds
  `License` and `Signed-off-by` to each of your commits. These trailers mean that the author 
  agrees with the [Developer Certificate of Origin (DCO)](docs/developer-certificate-of-origin) 
- and with licensing the work under the [MIT license](docs/LICENSE). 
+ and with licensing the work under the [CC0 license](docs/LICENSE). 
  This is important for our team and our users, legally. 
  The [setup_commit_msg_hook.sh](dev/hooks/setup_commit_msg_hook.sh) script will setup a Git 
  commit-msg hook that will add these trailers to all the commit messages you write in that repository. 
@@ -244,7 +244,7 @@ See also the [documentation about amending commits](https://help.github.com/arti
 The commit message should end with the following trailers:
 
 ```
-License: MIT
+License: CC0
 Signed-off-by: User Name <email@address>
 ```
 
@@ -267,8 +267,8 @@ parse_test: improve tests with stdin enabled arg
 Now also check that we get the right arguments from
 the parsing.
 
-License: MIT
-Signed-off-by: Christian Couder <chriscool@tuxfamily.org>
+License: CC0
+Signed-off-by: John Dow <jdow@company.org>
 ```
 
 ### Code
