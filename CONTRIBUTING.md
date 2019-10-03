@@ -293,10 +293,16 @@ as well as a clean documentation build.
 
 Pull requests descriptions should be as clear as possible. 
 Err on the side of overly specific and include a reference to all related issues. 
-If the pull request is meant to close an issue please use the Github keyword conventions 
-of [closes, fixes, or resolves]( https://help.github.com/articles/closing-issues-via-commit-messages/). 
-If the pull request only completes part of an issue use the [connects keywords]( https://github.com/waffleio/waffle.io/wiki/FAQs#prs-connect-keywords). 
-This helps our tools properly link issues to pull requests. 
+If the pull request is meant to close an issue please use the Github keyword conventions.
+
+GitHub allows [closing issues using keywords][closing-keywords]. This feature
+should be used to keep the issue tracker tidy. But in pull requests only. Please
+do not add this to your commit message.
+
+ [closing-keywords]: https://help.github.com/en/articles/closing-issues-using-keywords
+ 
+Please make sure that fixup commits are squashed into other related
+commits with meaningful commit messages.
 
 ### Code Review
 
