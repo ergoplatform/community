@@ -16,7 +16,7 @@ running at the same time which must behave "observably the same" the following s
 be guaranteed:
 1) New releases don't accidentally break Ergo protocol (i.e. behave correctly)
 2) All public APIs preserve backward compatibility to not break existing application.
-3) Application is free to choose any note on the network to communicate with, thus
+3) Application is free to choose any node on the network to communicate with, thus
 all the nodes should have equivalent observable behavior.
 
 ### Practices
@@ -40,7 +40,7 @@ The project do not have full-time testers at this stage (though volunteers are w
 
 [Ergo reference implementation](https://github.com/ergoplatform/ergo) has unit and integration
 tests more or less covering all aspects of the system.
-There is always some level technological debt as the project goes forward.  
+There is always some level of technological debt as the project goes forward.  
 And it will be necessary to refactor a lot, for this, again, tests will be needed 
 which help localize the problem, i.e. we need granular tests, and we need tests 
 able to catch regression bugs.
