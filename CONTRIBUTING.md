@@ -57,16 +57,15 @@ If the issue is something not yet deployed, just discuss it openly.
 
 ## Community Guidelines
 
-We want to keep the Ergo community awesome, growing and collaborative. 
-We need your help to keep it that way. To help with this we've come up with some general guidelines 
-for the community as a whole:
+The reason why we are all here is to build a project that thrives and lasts for years to come.
+As such it is vital that we each do our best to keep discussions courteous and civil, even when 
+we inevitably do encounter serious disagreements and our patience may end up being tested.
 
-- Be nice: Be courteous, respectful and polite to fellow community members: no regional, 
-racial, gender, or other abuse will be tolerated. We like nice people way better than mean ones! 
-- Stay on topic: Make sure that you are posting to the correct channel and avoid off-topic 
-discussions. Remember when you update an issue or respond to an email you are potentially 
-sending to a large number of people. Please consider this before you update. 
-Also remember that nobody likes spam.
+Furthermore, remember that community members have varied amounts of time which they can commit
+to the project. Make sure that you are posting to the correct channel and avoid off-topic 
+discussions. When you update an issue or respond to an email you are potentially 
+sending to a large number of people. Please consider this and make sure what you are posting
+is indeed relevant. 
 
 ## Dive Right In
 
